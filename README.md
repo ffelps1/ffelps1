@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante da Etec de Hortolândia no primeiro ano do ensino médio.<br>16 anos de idade.<br>Iniciante na programação de HTML5.<br>Aniversário dia 29/06/2009.<br>Todos os direitos reservados, trabalhos acadêmicos sem fins lucrativos.
+Estudante da Etec no primeiro ano do ensino médio.<br>16 anos de idade.<br>Iniciante na programação de HTML5.<br>Aniversário dia 29/06/2009.<br>Todos os direitos reservados, trabalhos acadêmicos sem fins lucrativos.
 
 
 ## 🌐 Socials:
